@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+![image](https://github.com/RahiniAchudhan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742838/e7ab6cb9-510a-4906-afb9-e1dfc69adca0)![image](https://github.com/RahiniAchudhan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742838/715001c4-aca6-4e9e-bb53-23e175be6789)# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 
 
@@ -46,9 +46,15 @@
 ![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
 
 ## Output:
+![Screenshot (307)](https://github.com/RahiniAchudhan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742838/d89463e9-0f20-48cc-a1ab-0df1a7c8aaa2)
 
-### Name:
-### Register Number:
+![Screenshot (308)](https://github.com/RahiniAchudhan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742838/10cae147-7e79-40b7-9965-2f16034d64e8)
+
+![Screenshot (309)](https://github.com/RahiniAchudhan/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/145742838/92465943-17ce-4764-a896-c021b6d3a53c)
+
+
+### Name: RAHINI.A
+### Register Number: 212223230165
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
